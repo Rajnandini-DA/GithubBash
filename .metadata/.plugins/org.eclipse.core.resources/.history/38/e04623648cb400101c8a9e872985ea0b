@@ -48,7 +48,6 @@ public class CreateContactTest {
 		}
 
 		System.out.println("Browser launched");
-		System.out.println("Browser launched is done");
 		
 		// get the url
 		driver.get(URL);
