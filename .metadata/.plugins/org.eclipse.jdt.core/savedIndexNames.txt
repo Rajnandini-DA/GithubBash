@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\abkmo\eclipse-Tekpyramid1\.metadata\.plugins\org.eclipse.jdt.core
+3666419088.index
+1865797976.index
+3621027377.index
